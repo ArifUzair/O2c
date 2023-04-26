@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+
+
+.Neo {
+    font-family: 'Montserrat', sans-serif;
+  }
+  .parentContainer {
+    position: relative;
+    height: 50vh;
+  }
+  
+  .mainNeoContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  
+.NeoContent{
+    text-align: center;
+    padding-bottom: 22px;
+}
+.neoImage{
+    height: 32px;
+}
+.neoText{
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+.ClusterLive {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 0 80px;
+  }
+  
+  .ClusterLive .clusterTitle {
+    margin-bottom: -0.5em;
+    font-size: 18px;
+    color: #0f278C;
+    font-weight: 400;
+    letter-spacing: -0.01em
+  }
+  .ClusterLive .clusterCountry{
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    color: #69696A;
+  }
+  
+  .orderTitle{
+    text-align: center;
+    color: #181818
+  }
+  /* ##### Top Benefits section ########## */
+ 
+  .benefitHeading{
+    font-size: 42px;
+    font-weight: 400;
+    text-align: center;
+  }
+  .bene{
+    font-weight: 700;
+    color: #0f278C;
+  }
+  .bene::after {
+    content: " ";
+    display: block;
+    border-bottom: 5px dashed ;
+    width: 60px;
+    border-radius: 10px;
+    margin: 10px auto 0;
+    background-color:#0f278C;
+  }
+  
+  .line1{
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: -0.9em;
+  }
+  .line2{
+    font-size: 19px;
+    font-weight: 700;
+    
+  }
+  
+  .shareIcon{
+    width: 20px;
+    height: 20px;
+    background: blue;
+    padding: 5px
+  }
+  
+  

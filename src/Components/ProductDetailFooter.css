@@ -1,0 +1,49 @@
+.brandLogoContent{
+    display:flex;
+    justify-content: center;
+}
+.blogo{
+    width:40px;
+    height:40px;
+    margin-top: 18px;
+    margin-right: 10px;
+}
+.productDetailLastSection{
+    background-color: #020B27;
+
+}
+.brandText{
+    color: #4080ff;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.Textcontent{
+    color:white;
+    width:50%;
+    text-align:center;
+    margin:0 auto;
+}
+.colorWhite{
+    fill: white;
+}
+.socialMediaList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.socialMediaList li{
+    list-style: none;
+}
+.rightReserved{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px 0 50px;
+    color: white;
+    background: #011A70;
+    height: 55px;
+}
+.socialMediaIcons{
+    padding-bottom: 10px;
+}

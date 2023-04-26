@@ -1,0 +1,64 @@
+.productDetailsNavbar{
+    background: linear-gradient(90deg, #FAFBFF 0.01%, #EBF3FF 100%);
+}
+.brandNbLogo{
+    width:60px;
+    height:60px;
+    margin: 0 5px;
+    border-right: 1px #CACACA solid ;
+    padding-right: 10px;
+}
+
+.menuContent{
+    display: flex;
+    gap: 20px;
+}
+.contactUs{
+  background: #011A70;
+    color: white;
+    border-radius: 25px;
+    padding: 10px 15px;
+    font-weight: 500;
+}
+.products{
+    color: #596A8A;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 10px 0;
+}
+.LogoContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 60px;
+}
+.brandlogo{
+    margin:auto 0;
+}
+.logoOtc{
+    position: relative;
+    width: 40px;
+    height: 40px;
+  margin: 15px 26px;
+}
+.brandLogotext{
+    position:absolute;
+    top: 85px;
+    left: 144px;
+    font-size: 12px;
+    font-weight: 700;
+}
+.pageNavigator{
+    padding-left: 60px;
+}
+.pageNavigator p{
+    color: #1264FF;
+     font-size: 18px;
+}
+.pageNavigator h3{
+    color: #133240;
+    font-size: 61px;
+    font-weight: 700;
+    font-family: outfit;
+    margin-top: 22px;
+    padding-bottom: 40px;
+}
